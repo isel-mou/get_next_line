@@ -22,7 +22,6 @@
 # include <unistd.h>
 
 size_t	ft_strlen(const char *joint);
-size_t	ft_strlen(const char *joint);
 char	*ft_strjoin(char *joint, char *s2);
 char	*ft_strdup(char *s1);
 int		ft_strchr(const char *joint, int c);
